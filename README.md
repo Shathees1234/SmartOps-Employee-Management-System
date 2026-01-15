@@ -1,6 +1,5 @@
-# SmartOps Employee Management System
-
-SmartOps Employee Management System is a Core Java–based console application designed to manage employee details and automate leave management using JDBC and MySQL.
+# SmartOps-Employee-Workflow-Automation
+SmartOps-Employee-Workflow-Automation is a Core Java–based console application designed to manage employee details and automate leave management using JDBC and MySQL.
 
 ---
 
